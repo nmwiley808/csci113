@@ -39,7 +39,6 @@ The course combines **digital logic principles with computer architecture concep
 ## Repository Structure
 ```
 CSCI113/
-│
 ├── labs/                              # Weekly Lab Activities
 └── README.md                          # Repository Documentation
 ```
